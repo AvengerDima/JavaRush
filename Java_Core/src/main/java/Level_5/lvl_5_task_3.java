@@ -4,7 +4,7 @@ package Level_5;
 ООП - машинки
 */
 
-import static Java_Core.Level_5.lvl_5_task_3.Constants.*;
+import static Level_5.lvl_5_task_3.Constants.*;
 
 public class lvl_5_task_3 {
   public static void main(String[] args) {
