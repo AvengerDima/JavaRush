@@ -9,7 +9,7 @@ import java.util.Objects;
 import java.util.Set;
 
 public class lvl_1_task_4 {
-    private final String first, last;
+    private final String first, last; //первый, последний
 
     public lvl_1_task_4(String first, String last) {
         this.first = first;
