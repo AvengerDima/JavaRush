@@ -1,6 +1,6 @@
 package Level_6.lvl_6_task_31;
 
-import Java_Core.Level_6.lvl_6_task_31.common.*;
+import Level_6.lvl_6_task_31.common.*;
 
 public class ImageReaderFactory {
   public static ImageReader getImageReader(ImageTypes types) {
