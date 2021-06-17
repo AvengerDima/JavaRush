@@ -1,4 +1,4 @@
-<h1 align="center">Snake</h1>
+<h1 align="center">SNAKE</h1>
 
 <p align="center"> 
 <img src="https://media.giphy.com/media/jVO4zAQHgQxlWZL8L1/giphy.gif" width="800" height="550" />
