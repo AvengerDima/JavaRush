@@ -35,4 +35,7 @@
 <img src="https://sun9-34.userapi.com/impg/_vGQN96wC3eLvl9CmLHmWE2VSf0n93kX5To65Q/pVKuczoUOZs.jpg?size=717x720&quality=96&sign=a34f042ef5fa04ffa94c4c8ca5b4e4e5&type=album" />
 </p>
 
+# Игра
+Чтобы испытать игру нажмите - [СТАРТ](https://javarush.ru/projects/apps/14812)!
+
 Приятной Игры!
