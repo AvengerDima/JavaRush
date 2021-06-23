@@ -1,5 +1,15 @@
 <h1 align="center">JavaRush</h1>
 
+<p align="center"> 
+<img src="https://img.shields.io/github/watchers/AvengerDima/JavaRush?style=flat-square" />
+<img src="https://img.shields.io/github/commit-activity/m/AvengerDima/JavaRush?style=flat-square" />
+<img src="https://img.shields.io/github/issues/AvengerDima/JavaRush?style=flat-square" />
+<img src="https://img.shields.io/badge/made%20by-AvengerDima-green" />
+<img src="https://img.shields.io/github/languages/top/AvengerDima/JavaRush?color=white-green&style=flat-square" />
+<img src="https://img.shields.io/github/stars/AvengerDima/JavaRush?style=flat-square" />
+<img src="https://img.shields.io/badge/PRs-welcome-blue?style=flat-square" />
+</p>
+
 ![JavaRush](https://static.tildacdn.com/tild6461-3130-4236-a331-366438373439/Bage.jpg)
 <h1 align="center">ОПИСАНИЕ</h1>
 
@@ -75,7 +85,11 @@
 <h1 align="center">GAMES</h1>
 
 # Snake
-...
+<p align="center"> 
+<img src="https://media.giphy.com/media/jVO4zAQHgQxlWZL8L1/giphy.gif" />
+</p>
+
+Справочник Игры можно прочитать здесь - [Змейка](https://github.com/AvengerDima/JavaRush/blob/9f05d4a083646f859182c332040e4d0164b0bbbc/Games/src/main/java/snake/README.md)!
 
 # Racer
 ...
