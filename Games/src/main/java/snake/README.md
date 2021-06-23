@@ -23,7 +23,7 @@
 <img src="https://sun9-35.userapi.com/impg/ImKFFgvxq8ZhxMiin8Ra9-2LkmJPGRRLm1grPw/TB17VIyVmGI.jpg?size=717x720&quality=96&sign=03e6caa6f6bbf34aa44c056dc7a10de6&type=album" />
 </p>
 
-### Игра
+### Игра Началась
 Отлично, теперь вы в игре! Ешьте яблоко и расширяйте тело Змейки... ах, да - не выходите за игровое поле.
 <p align="center"> 
 <img src="https://sun9-74.userapi.com/impg/nkH-2vqwaR4_iZHO13i1UUVLstwHoaJssG8cHw/lAj9i4qWPJM.jpg?size=718x720&quality=96&sign=67a42b5fe4e57fd792f7ca3f5443b627&type=album" />
