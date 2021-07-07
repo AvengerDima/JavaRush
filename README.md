@@ -70,13 +70,13 @@
   * Чат
   * Архиватор
   * HTML Редактор
-  * Тетрис
-  * Космическая Стрелялка
-  * Эмулятор Банкомата
-  * Парсер Сайтов
+  * Ресторан
+  * 2048
 * Паттерны:
   * MVC (Model-View-Controller)
   * ThreadPool
+  * Observer
+  * Singleton
 
 # Java Collections
 ![JavaCollections](https://javarush.ru/assets/images/site/quests/covers/main/quest-java-collections.webp)
