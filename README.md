@@ -80,7 +80,19 @@
 
 # Java Collections
 ![JavaCollections](https://javarush.ru/assets/images/site/quests/covers/main/quest-java-collections.webp)
-### Скоро...
+Что я изучал и выполнял в данном курсе:
+* File, Files, Path
+  * Reader, Writer
+  * StringReader, StringWriter
+  * RandomAccessFile
+* Properties
+* Dynamic Proxy
+* RMI
+* Мини-Проекты:
+  * Class AbstractList (Дерево)
+  * Тетрис
+* Паттерны:
+  * Null Object
 
 <h1 align="center">GAMES</h1>
 
